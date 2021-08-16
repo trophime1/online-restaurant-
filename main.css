@@ -1,0 +1,587 @@
+*
+
+{
+
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+body
+
+{
+	
+	
+	
+	
+}
+
+
+.nav
+{
+	text-align: left;
+	margin-top: 0.5%;
+	margin-left: 10%;
+
+}
+
+.navbar ul li
+{
+	display: inline;
+	padding: 5px;
+	border: 1px solid black;
+	background-color: whitesmoke;
+	color: white;
+	border-radius: 10px;
+}
+.navbar ul li button
+{
+	text-align: left;
+}
+.navbar ul li a 
+{
+	text-decoration: none;
+
+
+}
+.navbar ul li a:hover
+{
+
+
+	background-color: orangered;
+	text-decoration: none;
+	border: 1px solid black;
+	border-radius: 10px;
+
+}
+
+.container1
+{
+	
+	align-content: center;
+	margin-top: 1.5%;
+}
+
+.restoform
+{
+	
+	text-align: center;
+	margin-top: 25%;
+	
+}
+.restoform ul li
+{
+	font-size: 50px;
+	border: 1px solid black;
+	padding: 5px;
+	display: inline;
+	background-color: whitesmoke;
+	
+	border-radius: 10px;
+	
+
+}
+.restoform ul li a
+{
+	text-decoration: none;
+	color: orangered;
+}
+.container2
+{
+	text-align: center;
+	color: blue;
+	margin-top: 5%;
+	font-size: 45px;
+
+}
+.per
+{
+	
+	margin-left: 10%;
+	color: black;
+	font-size: 35px;
+
+}
+.ser
+{
+font-size: 30px;
+border: 1px solid black;
+border-radius: 10px;
+}
+.ser1
+{
+	
+	text-align: center;
+	margin-top: 5%;
+	
+}
+.ser1 ul li
+{
+	font-size: 50px;
+	border: 1px solid black;
+	padding: 5px;
+	display: inline;
+	background-color: whitesmoke;
+	
+	border-radius: 10px;
+	
+
+}
+.ser1 ul li a
+{
+	text-decoration: none;
+	color: orangered;
+}
+.end
+{
+	font-size: 30px;
+	text-align: center;
+	color: blue;
+	margin-bottom: 1%;
+}
+.end ul li
+{
+	font-size: 30px;
+	margin-bottom: 1.5%;
+	padding: 0;
+	
+}
+.container3
+{
+color: blue;
+font-size: 50px;
+font-style: italic;
+}
+.ser2
+{
+padding: 4;
+	
+}
+.ser2 ul li
+{
+	font-size: 25px;
+	margin-left: 50%;
+	margin-top: 30px;
+	
+	
+}
+.req button
+{
+	display: inline;
+	padding: 5px;
+	border: 1px solid black;
+	background-color: whitesmoke;
+	color: black;
+	border-radius: 10px;
+	font-size: 30px;
+	
+	
+	
+}
+.req
+{
+	margin-left: 50%;
+	margin-top: 10%;
+	
+}
+.table{
+	padding: 8px;
+	
+}
+.th th
+{
+	padding: 8px;
+	
+}
+.td td
+{
+	padding-left: 10px;
+}
+.tarif
+{
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.table1{
+	padding: 8px;
+	
+}
+.th1 th
+{
+	padding: 8px;
+	
+}
+.td1 td
+{
+	padding-left: 10px;
+}
+.tarif1
+{
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.table2
+{
+	padding: 8px;
+	
+}
+.th2 th
+{
+	padding: 8px;
+	
+}
+.td2 td
+{
+	padding-left: 10px;
+}
+.tarif2
+{
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.table3
+{
+	padding: 8px;
+	
+}
+.th3 th
+{
+	padding: 8px;
+	
+}
+.td3 td
+{
+	padding-left: 10px;
+}
+.tarif3
+{
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.back
+{
+	margin-left: 50%;
+
+}
+.back button
+{
+	font-size: 30px;
+}
+.log
+{
+padding: 10px;
+	margin-top: 30px;
+	margin-left: 30%;
+}
+.cancel
+{
+	margin-left: 50%;
+}
+.login
+{
+	margin-left: 30%;
+	padding: 10px;
+}
+.rem
+{
+	margin-left: 30%;
+	
+}
+.form
+{
+	margin-top: 10%;
+	
+	font-size: 40px;
+	
+	
+}
+.form button
+{
+	font-size: 30px;
+}
+.form input
+{
+	font-size: 20px;
+}
+.sin
+{
+	width: 300px;
+	box-shadow: 0 0 0 30px rgba(0,0,0,3);
+	background: #fff;
+	padding: 20px;
+	margin: 8% auto 0;
+	text-align: center;
+	
+}
+
+::selection{
+  background: #4158d0;
+  color: #fff;
+}
+.wrapper{
+  width: 380px;
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0px 15px 20px rgba(0,0,0,0.1);
+}
+.wrapper .title{
+  font-size: 35px;
+  font-weight: 600;
+  text-align: center;
+  line-height: 100px;
+  color: #fff;
+  user-select: none;
+  border-radius: 15px 15px 0 0;
+  background: linear-gradient(-135deg, #c850c0, #4158d0);
+}
+.wrapper form{
+  padding: 10px 30px 50px 30px;
+}
+.wrapper form .field{
+  height: 50px;
+  width: 100%;
+  margin-top: 20px;
+  position: relative;
+}
+.wrapper form .field input{
+  height: 100%;
+  width: 100%;
+  outline: none;
+  font-size: 17px;
+  padding-left: 20px;
+  border: 1px solid lightgrey;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+}
+.wrapper form .field input:focus,
+form .field input:valid{
+  border-color: #4158d0;
+}
+.wrapper form .field label{
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  color: #999999;
+  font-weight: 400;
+  font-size: 17px;
+  pointer-events: none;
+  transform: translateY(-50%);
+  transition: all 0.3s ease;
+}
+form .field input:focus ~ label,
+form .field input:valid ~ label{
+  top: 0%;
+  font-size: 16px;
+  color: #4158d0;
+  background: #fff;
+  transform: translateY(-50%);
+}
+form .content{
+  display: flex;
+  width: 100%;
+  height: 50px;
+  font-size: 16px;
+  align-items: center;
+  justify-content: space-around;
+}
+form .content .checkbox{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+form .content input{
+  width: 15px;
+  height: 15px;
+  background: red;
+}
+form .content label{
+  color: #262626;
+  user-select: none;
+  padding-left: 5px;
+}
+form .content .pass-link{
+  color: "";
+}
+form .field button {
+  color: #fff;
+  border: none;
+  padding-left: 0;
+  margin-top: -10px;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+  background: linear-gradient(-135deg, #c850c0, #4158d0);
+  transition: all 0.3s ease;
+}
+form .field button :active{
+  transform: scale(0.95);
+}
+form .signup-link{
+  color: #262626;
+  margin-top: 20px;
+  text-align: center;
+}
+form .pass-link a,
+form .signup-link a{
+  color: #4158d0;
+  text-decoration: none;
+}
+form .pass-link a:hover,
+form .signup-link a:hover{
+  text-decoration: underline;
+}
+.hasi
+{
+	margin-top: 30px;
+}
+
+.homet 
+{
+	font-size: 200%;
+}
+.homet
+{
+	margin-top: 20px;
+}
+.homet td
+{
+	padding-left: 70px;
+}
+.pr
+{
+	font-size: 18px;
+}
+.make
+{
+	margin-top: 20px;
+	background-color: #C989F9;
+}
+.show
+{
+	padding-top: 10px;
+	
+}
+.rec 
+{
+	border: thick;
+	padding: 20px;
+	margin-top: 80px;
+}
+.rec input
+{
+	font-size: 30px;
+}
+.re button
+{
+	padding: 10px;
+	font-size: 30px;
+}
+.column1 {
+  float: left;
+  width: 70%;
+  padding: 10px;
+  height: 200px; /* Should be removed. Only for demonstration */
+}
+
+.column2 {
+  float: left;
+  width: 30%;
+  padding: 10px;
+  height: 200px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+	clear: both;
+}
+* {box-sizing: border-box;}
+ul {list-style-type: none;}
+body {font-family: Verdana, sans-serif;}
+
+.month {
+  padding: 70px 25px;
+  width: 100%;
+  background: #1abc9c;
+  text-align: center;
+}
+
+.month ul {
+  margin: 0;
+  padding: 0;
+}
+
+.month ul li {
+  color: white;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.month .prev {
+  float: left;
+  padding-top: 10px;
+}
+
+.month .next {
+  float: right;
+  padding-top: 10px;
+}
+
+.weekdays {
+  margin: 0;
+  padding: 10px 0;
+  background-color: #ddd;
+}
+
+.weekdays li {
+  display: inline-block;
+  width: 13.6%;
+  color: #666;
+  text-align: center;
+}
+
+.days {
+  padding: 10px 0;
+  background: #eee;
+  margin: 0;
+}
+
+.days li {
+  list-style-type: none;
+  display: inline-block;
+  width: 13.6%;
+  text-align: center;
+  margin-bottom: 5px;
+  font-size:12px;
+  color: #777;
+}
+
+.days li .active {
+  padding: 5px;
+  background: #1abc9c;
+  color: white !important
+}
+
+/* Add media queries for smaller screens */
+@media screen and (max-width:720px) {
+  .weekdays li, .days li {width: 13.1%;}
+}
+
+@media screen and (max-width: 420px) {
+  .weekdays li, .days li {width: 12.5%;}
+  .days li .active {padding: 2px;}
+}
+
+@media screen and (max-width: 290px) {
+  .weekdays li, .days li {width: 12.2%;}
+}
+.he
+{
+	text-align: center;
+	
+	padding-top: 20px;
+}
+.he h2{
+	background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
